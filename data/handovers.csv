@@ -1,0 +1,11 @@
+handoverId,itemId,fromParty,toParty,handoverDate,conditionAtHandover,notes
+"H001","E001","Individual Owner","GreenTech Collection Centre",2026-09-02,"Non-Functional","Laptop received for safe collection"
+"H002","E002","Individual Owner","City E-Waste Centre",2026-09-03,"Non-Functional","Mobile phones submitted by household"
+"H003","E004","Apartment Society","GreenTech Collection Centre",2026-09-05,"Non-Functional","Television collected during e-waste drive"
+"H004","E006","Individual Owner","SecureRecycle Facility",2026-09-07,"Non-Functional","Tablet transferred for processing"
+"H005","E006","SecureRecycle Facility","SecureRecycle Facility",2026-09-08,"Non-Functional","Processing outcome recorded"
+"H006","E007","Small Business","City E-Waste Centre",2026-09-08,"Non-Functional","Router submitted for collection"
+"H007","E009","Individual Owner","GreenTech Collection Centre",2026-09-10,"Damaged","Damaged batteries flagged for careful handling"
+"H008","E010","ABC Office","SecureRecycle Facility",2026-09-11,"Non-Functional","Monitor transferred for dismantling"
+"H009","E010","SecureRecycle Facility","SecureRecycle Facility",2026-09-12,"Non-Functional","Dismantling outcome recorded"
+"H010","E001","GreenTech Collection Centre","SecureRecycle Facility",2026-09-13,"Non-Functional","Laptop sent to downstream processing facility"
